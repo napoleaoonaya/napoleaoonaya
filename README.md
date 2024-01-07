@@ -10,23 +10,19 @@
 <div>
   <h6>Technologies I've worked with</h6>
   <h5>Skill:</h5>
-  <ul>
-    <li>Back-end:</li>
-    <li>Java<img align="center" alt="Napoleao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></li>
-    <li>Python<img align="center" alt="Napoleao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></li>
-    <li>PHP<img align="center" alt="Napoleao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;"></li>
-  </ul>
-  <ul>
-    <li>Front-end:</li>
-    <li>HTML5<img align="center" alt="Napoleao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></li>
-    <li>CSS3<img align="center" alt="Napoleao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></li>
-    <li>JavaScript<img align="center" alt="Napoleao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></li>
-  </ul>
-    <ul>
-    <li>Cloud:</li>
-    <li>Azure<img align="center" alt="Napoleao-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width: 100%;"></li>
-    <li>AWS<img align="center" alt="Napoleao-AWS" height="30" width="40" src="https://avatars.githubusercontent.com/u/3299148?s=48&amp;v=4" style="max-width: 100%;"></li>
-    </ul>    
+  <h5>Back-end:</h5>
+  <img align="center" alt="Napoleao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 
+100%;">
+  <img align="center" alt="Napoleao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+  <img align="center" alt="Napoleao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 
+100%;">
+<h5>Front-end:</h5>
+    <img align="center" alt="Napoleao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+    <img align="center" alt="Napoleao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+    <img align="center" alt="Napoleao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
+    <h5>Cloud:</h5>
+<img align="center" alt="Napoleao-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width: 100%;">
+<img align="center" alt="Napoleao-AWS" height="30" width="40" src="https://avatars.githubusercontent.com/u/3299148?s=48&amp;v=4" style="max-width: 100%;"></li>  
 </div>
 <hr>
 <h6>Contact</h6>

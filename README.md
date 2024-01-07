@@ -1,10 +1,11 @@
 ### Hi, My name is Napoleon Kazu Onaya
-- 🔭 I'm currently working with java backend
-- 🌱 I'm learning Java and Python, in the data science postgraduate course
-- 👯 I really like studying and passing on my knowledge
-- 💬 You can call me for programming questions
-- 📫 You can contact me by email at napoleao.onaya@gmail.com
-- 😄 Pronouns: You can call me Napoleon, Kazu, or Onaya, feel free.
+<h6>About Me</h6>
+- 🔭 I'm currently working with java backend<br/>
+- 🌱 I'm learning Java and Python, in the data science postgraduate course<br/>
+- 👯 I really like studying and passing on my knowledge<br/>
+- 💬 You can call me for programming questions<br/>
+- 📫 You can contact me by email at napoleao.onaya@gmail.com<br/>
+- 😄 Pronouns: You can call me Napoleon, Kazu, or Onaya, feel free<br/>
 <hr>
 <div>
   <h6>Technologies I've worked with</h6>
@@ -21,6 +22,11 @@
     <li>CSS3<img align="center" alt="Napoleao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></li>
     <li>JavaScript<img align="center" alt="Napoleao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></li>
   </ul>
+    <ul>
+    <li>Cloud:</li>
+    <li>Azure<img align="center" alt="Napoleao-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="max-width: 100%;"></li>
+    <li>AWS<img align="center" alt="Napoleao-AWS" height="30" width="40" src="https://avatars.githubusercontent.com/u/3299148?s=48&amp;v=4" style="max-width: 100%;"></li>
+    </ul>    
 </div>
 <hr>
 <h6>Contact</h6>

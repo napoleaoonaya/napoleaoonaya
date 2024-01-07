@@ -3,7 +3,6 @@
 - 🔭 I'm currently working with java backend<br/>
 - 🌱 I'm learning Java and Python, in the data science postgraduate course<br/>
 - 👯 I really like studying and passing on my knowledge<br/>
-- 💬 You can call me for programming questions<br/>
 - 📫 You can contact me by email at napoleao.onaya@gmail.com<br/>
 - 😄 Pronouns: You can call me Napoleon, Kazu, or Onaya, feel free<br/>
 <hr>

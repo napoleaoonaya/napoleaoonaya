@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**napoleaoonaya/napoleaoonaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, My name is Napoleon Kazu Onaya
+- 🔭 I'm currently working with java backend
+- 🌱 I'm learning Java and Python, in the data science postgraduate course
+- 👯 I really like studying and passing on my knowledge
+- 💬 You can call me for programming questions
+- 📫 You can contact me by email at napoleao.onaya@gmail.com
+- 😄 Pronouns: You can call me Napoleon, Kazu, or Onaya, feel free.
+<hr>
+<div>
+  <h6>Technologies I've worked with</h6>
+  <h5>Skill:</h5>
+  <ul>
+    <li>Back-end:</li>
+    <li>Java<img align="center" alt="Napoleao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width: 100%;"></li>
+    <li>Python<img align="center" alt="Napoleao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></li>
+    <li>PHP<img align="center" alt="Napoleao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;"></li>
+  </ul>
+  <ul>
+    <li>Front-end:</li>
+    <li>HTML5<img align="center" alt="Napoleao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></li>
+    <li>CSS3<img align="center" alt="Napoleao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></li>
+    <li>JavaScript<img align="center" alt="Napoleao-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;"></li>
+  </ul>
+</div>
+<hr>
+<h6>Contact</h6>
+<a href="mailto:napoleao.onaya@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/napoleao-kazu-onaya-081aa528" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
